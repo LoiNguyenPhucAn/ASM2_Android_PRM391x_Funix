@@ -14,10 +14,7 @@ Kiến thức cần có để hoàn thành dự án (keyword):
 
 ➢Tạo hẹn giờ để thực hiện tác vụ trong Android: Học viên có thể dùng JobScheduler hoặc AlarmManager
 
-JobScheduler
-Scheduling jobs like a pro with JobScheduler
-Scheduling of tasks with the Android JobScheduler - Tutorial
-AlarmManager
+JobScheduler  -- Scheduling jobs like a pro with JobScheduler  -- Scheduling of tasks with the Android JobScheduler  -- AlarmManager
 
 ➢ConstraintLayout
 
