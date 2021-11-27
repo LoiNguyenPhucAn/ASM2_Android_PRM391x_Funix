@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ASM2</string>
+    <string name="peding_sms">Make a pending SMS</string>
+    <string name="phone_call">Make a pending CALL</string>
+    <string name="alarm">Make an ALARM</string>
+</resources>
