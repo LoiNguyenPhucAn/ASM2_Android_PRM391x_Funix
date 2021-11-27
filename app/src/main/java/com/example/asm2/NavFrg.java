@@ -6,6 +6,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
+import android.widget.AdapterView;
 import android.widget.ListView;
 
 
@@ -16,7 +17,7 @@ import androidx.fragment.app.Fragment;
 import java.util.ArrayList;
 import java.util.List;
 
-public class NavFrg extends Fragment implements View.OnClickListener {
+public class NavFrg extends Fragment {
 
     private Context mContext;
 
@@ -45,6 +46,14 @@ public class NavFrg extends Fragment implements View.OnClickListener {
 
         List<ItemMenu> itemList = getlistData();
         lvMenu.setAdapter(new NavAdapter(mContext,itemList));
+        lvMenu.setOnItemClickListener(new AdapterView.OnItemClickListener() {
+            @Override
+            public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
+                Object o = lvMenu.getItemAtPosition(position);
+                ItemMenu item = (ItemMenu) o;
+                ((MainActivity) getActivity()).showFrg(item.getIdText());
+            }
+        });
     }
 
    private List<ItemMenu> getlistData() {
@@ -58,10 +67,4 @@ public class NavFrg extends Fragment implements View.OnClickListener {
         return list;
     }
 
-    // Khi xảy ra sự kiện onClick trên itemMenu thì gọi hàm showFrg() để hiển thị srceen tiếp theo
-    // hàm showFrg() sẽ có tham số đi cùng là giá trị thuộc tính tag lầy được từ phần tử itemMenu
-    @Override
-    public void onClick(View v) {
-        ((MainActivity) getActivity()).showFrg((int) v.getTag());
-    }
 }
