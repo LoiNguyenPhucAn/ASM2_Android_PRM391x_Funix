@@ -39,16 +39,6 @@
                 android:textSize="24sp" />
         </LinearLayout>
 
-<!--        sử dụng LinearLayout để chứa các itemMenu khi build thủ công    -->
-        <LinearLayout
-            android:id="@+id/layout_ItemMenu"
-            android:layout_width="match_parent"
-            android:layout_height="0dp"
-            android:layout_weight="8"
-            android:background="@color/white"
-            android:orientation="vertical" />
-
-   <!--
         <FrameLayout
             android:layout_width="match_parent"
             android:layout_height="0dp"
@@ -56,13 +46,12 @@
             android:background="@color/white">
 
             <ListView
-                android:id="@+id/lv_ItemMenu"
+                android:id="@+id/lvItemMenu"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:layout_weight="1"/>
 
         </FrameLayout>
--->
     </LinearLayout>
 
 
