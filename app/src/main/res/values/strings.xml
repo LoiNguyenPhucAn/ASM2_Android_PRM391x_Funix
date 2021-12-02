@@ -3,4 +3,6 @@
     <string name="peding_sms">Make a pending SMS</string>
     <string name="phone_call">Make a pending CALL</string>
     <string name="alarm">Make an ALARM</string>
+    <string name="Open">Open drawer layout main</string>
+    <string name="Close">Close drawer layout main</string>
 </resources>

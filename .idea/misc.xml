@@ -5,10 +5,18 @@
       <map>
         <entry key="..\:/GitHub/ASM2_Android_PRM391x_Funix/app/src/main/res/drawable/ic_headline.xml" value="0.1" />
         <entry key="..\:/GitHub/ASM2_Android_PRM391x_Funix/app/src/main/res/layout/action_bar.xml" value="0.17760416666666667" />
-        <entry key="..\:/GitHub/ASM2_Android_PRM391x_Funix/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/GitHub/ASM2_Android_PRM391x_Funix/app/src/main/res/layout/activity_main.xml" value="0.17760416666666667" />
+        <entry key="..\:/GitHub/ASM2_Android_PRM391x_Funix/app/src/main/res/layout/app_bar.xml" value="0.17760416666666667" />
+        <entry key="..\:/GitHub/ASM2_Android_PRM391x_Funix/app/src/main/res/layout/app_bar_main.xml" value="0.17760416666666667" />
+        <entry key="..\:/GitHub/ASM2_Android_PRM391x_Funix/app/src/main/res/layout/appbar_content_layout.xml" value="0.17760416666666667" />
+        <entry key="..\:/GitHub/ASM2_Android_PRM391x_Funix/app/src/main/res/layout/content_frg.xml" value="0.17760416666666667" />
+        <entry key="..\:/GitHub/ASM2_Android_PRM391x_Funix/app/src/main/res/layout/content_layout.xml" value="0.17760416666666667" />
+        <entry key="..\:/GitHub/ASM2_Android_PRM391x_Funix/app/src/main/res/layout/content_main.xml" value="0.17760416666666667" />
         <entry key="..\:/GitHub/ASM2_Android_PRM391x_Funix/app/src/main/res/layout/nav_header.xml" value="0.17760416666666667" />
+        <entry key="..\:/GitHub/ASM2_Android_PRM391x_Funix/app/src/main/res/layout/nav_header_main.xml" value="0.17760416666666667" />
         <entry key="..\:/GitHub/ASM2_Android_PRM391x_Funix/app/src/main/res/layout/nav_item.xml" value="0.1" />
         <entry key="..\:/GitHub/ASM2_Android_PRM391x_Funix/app/src/main/res/layout/nav_menu.xml" value="0.1" />
+        <entry key="..\:/GitHub/ASM2_Android_PRM391x_Funix/app/src/main/res/menu/activity_main_drawer.xml" value="0.17760416666666667" />
       </map>
     </option>
   </component>
