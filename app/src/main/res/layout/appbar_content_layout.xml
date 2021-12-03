@@ -16,14 +16,14 @@
             android:layout_height="?attr/actionBarSize"
             android:background="@color/color_primaryLight"
             app:title="@string/peding_sms"
-            app:titleTextColor="@color/white" />
+            app:titleTextColor="@color/white"
+            android:theme="@style/Theme.MaterialComponents.NoActionBar"/>
 
     </com.google.android.material.appbar.AppBarLayout>
 
 
-    <FrameLayout
-        android:id="@+id/content_framelayout"
-        android:layout_width="match_parent"
-        android:layout_height="match_parent" />
+    <include
+        android:id="@+id/host_container_content_fragment"
+        layout="@layout/content_frg"/>
 
 </LinearLayout>

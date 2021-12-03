@@ -6,6 +6,7 @@
         <entry key="..\:/GitHub/ASM2_Android_PRM391x_Funix/app/src/main/res/drawable/ic_headline.xml" value="0.1" />
         <entry key="..\:/GitHub/ASM2_Android_PRM391x_Funix/app/src/main/res/layout/action_bar.xml" value="0.17760416666666667" />
         <entry key="..\:/GitHub/ASM2_Android_PRM391x_Funix/app/src/main/res/layout/activity_main.xml" value="0.17760416666666667" />
+        <entry key="..\:/GitHub/ASM2_Android_PRM391x_Funix/app/src/main/res/layout/alarm_frg.xml" value="0.17760416666666667" />
         <entry key="..\:/GitHub/ASM2_Android_PRM391x_Funix/app/src/main/res/layout/app_bar.xml" value="0.17760416666666667" />
         <entry key="..\:/GitHub/ASM2_Android_PRM391x_Funix/app/src/main/res/layout/app_bar_main.xml" value="0.17760416666666667" />
         <entry key="..\:/GitHub/ASM2_Android_PRM391x_Funix/app/src/main/res/layout/appbar_content_layout.xml" value="0.17760416666666667" />
@@ -16,6 +17,8 @@
         <entry key="..\:/GitHub/ASM2_Android_PRM391x_Funix/app/src/main/res/layout/nav_header_main.xml" value="0.17760416666666667" />
         <entry key="..\:/GitHub/ASM2_Android_PRM391x_Funix/app/src/main/res/layout/nav_item.xml" value="0.1" />
         <entry key="..\:/GitHub/ASM2_Android_PRM391x_Funix/app/src/main/res/layout/nav_menu.xml" value="0.1" />
+        <entry key="..\:/GitHub/ASM2_Android_PRM391x_Funix/app/src/main/res/layout/pending_sms_frg.xml" value="0.17760416666666667" />
+        <entry key="..\:/GitHub/ASM2_Android_PRM391x_Funix/app/src/main/res/layout/phone_call_frg.xml" value="0.17760416666666667" />
         <entry key="..\:/GitHub/ASM2_Android_PRM391x_Funix/app/src/main/res/menu/activity_main_drawer.xml" value="0.17760416666666667" />
       </map>
     </option>
